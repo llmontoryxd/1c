@@ -1,0 +1,9 @@
+﻿<CatalogObject.Товары xmlns="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Ref>c96dc362-ffec-11eb-8b68-acde48001122</Ref>
+	<DeletionMark>false</DeletionMark>
+	<Code>000000001</Code>
+	<Description>ЛожкаИзмененнаяПятыйРаз</Description>
+	<Цена>100000</Цена>
+	<Артикул>Л_01</Артикул>
+	<Брэнд>Гуччи</Брэнд>
+</CatalogObject.Товары>
