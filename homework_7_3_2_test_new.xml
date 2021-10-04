@@ -1,0 +1,17 @@
+﻿<v8msg:Message xmlns:v8msg="http://v8.1c.ru/messages">
+	<v8msg:Header>
+		<v8msg:ExchangePlan>Общий</v8msg:ExchangePlan>
+		<v8msg:To>ВН</v8msg:To>
+		<v8msg:From>ГЛ</v8msg:From>
+		<v8msg:MessageNo>11</v8msg:MessageNo>
+		<v8msg:ReceivedNo>0</v8msg:ReceivedNo>
+	</v8msg:Header>
+	<v8msg:Body>
+		<CatalogObject.Номенклатура>
+			<Ref>9fac02ac-119a-11ec-bb00-80325383e60d</Ref>
+			<DeletionMark>false</DeletionMark>
+			<Code>000000004</Code>
+			<Description>AMG GTS</Description>
+		</CatalogObject.Номенклатура>
+	</v8msg:Body>
+</v8msg:Message>

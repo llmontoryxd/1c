@@ -3,33 +3,8 @@
 		<v8msg:ExchangePlan>Общий</v8msg:ExchangePlan>
 		<v8msg:To>ВН</v8msg:To>
 		<v8msg:From>ГЛ</v8msg:From>
-		<v8msg:MessageNo>1</v8msg:MessageNo>
+		<v8msg:MessageNo>4</v8msg:MessageNo>
 		<v8msg:ReceivedNo>0</v8msg:ReceivedNo>
 	</v8msg:Header>
-	<v8msg:Body>
-		<CatalogObject.Номенклатура>
-			<Ref>f05bdccf-0f19-11ec-baec-80325383e60d</Ref>
-			<DeletionMark>false</DeletionMark>
-			<Code>000000001</Code>
-			<Description>Хлеб</Description>
-		</CatalogObject.Номенклатура>
-		<CatalogObject.Номенклатура>
-			<Ref>f05bdcd0-0f19-11ec-baec-80325383e60d</Ref>
-			<DeletionMark>false</DeletionMark>
-			<Code>000000002</Code>
-			<Description>Молоко</Description>
-		</CatalogObject.Номенклатура>
-		<CatalogObject.Контрагенты>
-			<Ref>f05bdcd1-0f19-11ec-baec-80325383e60d</Ref>
-			<DeletionMark>false</DeletionMark>
-			<Code>000000001</Code>
-			<Description>Рога и Копыта</Description>
-		</CatalogObject.Контрагенты>
-		<CatalogObject.Контрагенты>
-			<Ref>f05bdcd2-0f19-11ec-baec-80325383e60d</Ref>
-			<DeletionMark>false</DeletionMark>
-			<Code>000000002</Code>
-			<Description>БМВ</Description>
-		</CatalogObject.Контрагенты>
-	</v8msg:Body>
+	<v8msg:Body/>
 </v8msg:Message>

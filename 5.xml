@@ -1,0 +1,17 @@
+﻿<v8msg:Message xmlns:v8msg="http://v8.1c.ru/messages">
+	<v8msg:Header>
+		<v8msg:ExchangePlan>Общий</v8msg:ExchangePlan>
+		<v8msg:To>ВН</v8msg:To>
+		<v8msg:From>ГЛ</v8msg:From>
+		<v8msg:MessageNo>13</v8msg:MessageNo>
+		<v8msg:ReceivedNo>0</v8msg:ReceivedNo>
+	</v8msg:Header>
+	<v8msg:Body>
+		<CatalogObject.Контрагенты>
+			<Ref>9fac02ae-119a-11ec-bb00-80325383e60d</Ref>
+			<DeletionMark>false</DeletionMark>
+			<Code>000000005</Code>
+			<Description>Dodge</Description>
+		</CatalogObject.Контрагенты>
+	</v8msg:Body>
+</v8msg:Message>
